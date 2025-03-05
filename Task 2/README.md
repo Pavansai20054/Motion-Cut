@@ -46,16 +46,10 @@ Follow these steps to run the project on your local machine:
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/Pavansai20054/image-slider.git
+git clone --recursive https://github.com/Pavansai20054/Motion-Cut.git
 ```
 
-
-2️⃣ **Navigate into the project folder**
-```bash
-cd image-slider
-```
-
-3️⃣ **Open `index.html` in a browser**
+2️⃣ **Open `index.html` in a browser**
 
 Simply double-click the `index.html` file.
 
