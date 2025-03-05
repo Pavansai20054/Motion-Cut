@@ -8,7 +8,7 @@ This **Image Slider** project is a part of **Internship Task 2** at **Motioncut 
 ---
 
 ## 🔗 Live Demo  
-[![View Live](https://img.shields.io/badge/🔴%20Live%20Demo-Click%20Here-red?style=for-the-badge)](https://your-username.github.io/image-slider/)  
+[![View Live](https://img.shields.io/badge/🔴%20Live%20Demo-Click%20Here-red?style=for-the-badge)](https://pavansai20054.github.io/Motion-Cut//)  
 
 ---
 
